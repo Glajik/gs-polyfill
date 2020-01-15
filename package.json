@@ -1,0 +1,16 @@
+{
+  "name": "gs-polyfills",
+  "version": "1.0.0",
+  "description": "Polyfills for Google Apps Scripts",
+  "repository": "https://github.com/Glajik/gs-polyfills.git",
+  "author": "Viacheslav Glazhevskyi <glajik@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {},
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  },
+  "dependencies": {}
+}
